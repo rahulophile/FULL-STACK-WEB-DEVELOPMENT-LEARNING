@@ -1,1 +1,1 @@
-Content of module 2
+Content of Module 2
